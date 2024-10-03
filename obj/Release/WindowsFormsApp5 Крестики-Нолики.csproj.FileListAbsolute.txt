@@ -1,0 +1,24 @@
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\bin\Release\WindowsFormsApp5 Крестики-Нолики.exe.config
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\bin\Release\WindowsFormsApp5 Крестики-Нолики.exe
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\bin\Release\WindowsFormsApp5 Крестики-Нолики.pdb
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\obj\Release\WindowsFormsApp5 Крестики-Нолики.csproj.AssemblyReference.cache
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\obj\Release\WindowsFormsApp5 Крестики-Нолики.csproj.SuggestedBindingRedirects.cache
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\obj\Release\WindowsFormsApp5_Крестики_Нолики.Form1.resources
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\obj\Release\WindowsFormsApp5_Крестики_Нолики.Form2.resources
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\obj\Release\WindowsFormsApp5_Крестики_Нолики.Properties.Resources.resources
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\obj\Release\WindowsFormsApp5 Крестики-Нолики.csproj.GenerateResource.cache
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\obj\Release\WindowsFormsApp5 Крестики-Нолики.csproj.CoreCompileInputs.cache
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\obj\Release\WindowsFormsApp5 Крестики-Нолики.exe
+F:\reps\WindowsForms\WF20 12 23 Крестики-Нолики\obj\Release\WindowsFormsApp5 Крестики-Нолики.pdb
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\bin\Release\WindowsFormsApp5 Крестики-Нолики.exe.config
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\bin\Release\WindowsFormsApp5 Крестики-Нолики.exe
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\bin\Release\WindowsFormsApp5 Крестики-Нолики.pdb
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\obj\Release\WindowsFormsApp5 Крестики-Нолики.csproj.AssemblyReference.cache
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\obj\Release\WindowsFormsApp5 Крестики-Нолики.csproj.SuggestedBindingRedirects.cache
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\obj\Release\WindowsFormsApp5_Крестики_Нолики.Form1.resources
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\obj\Release\WindowsFormsApp5_Крестики_Нолики.Form2.resources
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\obj\Release\WindowsFormsApp5_Крестики_Нолики.Properties.Resources.resources
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\obj\Release\WindowsFormsApp5 Крестики-Нолики.csproj.GenerateResource.cache
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\obj\Release\WindowsFormsApp5 Крестики-Нолики.csproj.CoreCompileInputs.cache
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\obj\Release\WindowsFormsApp5 Крестики-Нолики.exe
+F:\reps\WindowsForms\Крестики-Нолики (без лишнего)\obj\Release\WindowsFormsApp5 Крестики-Нолики.pdb
