@@ -1,10 +1,12 @@
 # Игра крестики-нолики
 
-<img src="1.jpg" alt="Окно приложения" width="350">
+<img src="image/1.jpg" alt="Окно приложения" width="350">
 
 ### Инструменты разработки
 
-- Visual Studio 2022
+
+<img src="image/Сsharp.png" alt="Окно приложения" width="50">
+<img src="image/VisualStudiologo.jpg" alt="Окно приложения" width="90">
 
 ### Установка и Запуск
 
