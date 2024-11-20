@@ -5,8 +5,7 @@
 ### Инструменты разработки
 
 
-<img src="image/Сsharp.png" alt="Окно приложения" width="50">
-<img src="image/VisualStudiologo.jpg" alt="Окно приложения" width="90">
+<img src="image/Сsharp.png" alt="Окно приложения" width="50"> <img src="image/VisualStudiologo.jpg" alt="Окно приложения" width="90">
 
 ### Установка и Запуск
 
